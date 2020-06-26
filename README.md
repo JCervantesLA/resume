@@ -53,6 +53,7 @@ Experienced and versatile tech professional with strong background in corporate 
 • Data analytics and marketing data analysis (Adobe, Salesforce, Python)  
 • Analyze and present digital marketing campaign data to stakeholders  
 
+## Academic Background
 ### University of California, Santa Cruz
 *Bachelor of Arts in Literature and Film, 2007*
 
