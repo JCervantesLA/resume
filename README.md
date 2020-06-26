@@ -53,12 +53,6 @@ Experienced and versatile tech professional with strong background in corporate 
 • Data analytics and marketing data analysis (Adobe, Salesforce, Python)  
 • Analyze and present digital marketing campaign data to stakeholders  
 
-## Interests
-
-Full stack web development, software development, data analysis, application support and digital marketing. 
-
-## Academic Background
-
 ### University of California, Santa Cruz
 *Bachelor of Arts in Literature and Film, 2007*
 
@@ -69,6 +63,10 @@ Full stack web development, software development, data analysis, application sup
 
 • Employee of the Month, Sept 2019, OceanX  
 • North America Marketing Outstanding Performance, Dec 2015, Herbalife Nutrition  
+
+## Interests
+
+Full stack web development, software development, data analysis, application support and digital marketing.   
 
 ## Get In Touch
 [LinkedIn](https://www.linkedin.com/in/jcervantesla/ "Jose Cervantes LinkedIn")
